@@ -12,7 +12,7 @@
 
 ---
 
-# Thingiverse Index
+## Thingiverse Index
 
 | Index   | Name                                                                                |
 | ------- | ----------------------------------------------------------------------------------- |
@@ -61,3 +61,5 @@
 | 7185306 | [Outdoor Security Camera Shade](https://www.thingiverse.com/thing:7185306)          |
 | 7185338 | [LED Stand](https://www.thingiverse.com/thing:7185338)                              |
 | 7185342 | [LED Hexagon Magnetic](https://www.thingiverse.com/thing:7185342)                   |
+| 7207798 | [Under Bed LED Light Cap](https://www.thingiverse.com/thing:7207798)                |
+| 7215617 | [Table Side Power Strip Holder](https://www.thingiverse.com/thing:7215617)          |
