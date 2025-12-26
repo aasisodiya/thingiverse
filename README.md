@@ -63,3 +63,4 @@
 | 7185342 | [LED Hexagon Magnetic](https://www.thingiverse.com/thing:7185342)                   |
 | 7207798 | [Under Bed LED Light Cap](https://www.thingiverse.com/thing:7207798)                |
 | 7215617 | [Table Side Power Strip Holder](https://www.thingiverse.com/thing:7215617)          |
+| 7250885 | [Shrimad Ramayan](https://www.thingiverse.com/thing:7250885)                        |
