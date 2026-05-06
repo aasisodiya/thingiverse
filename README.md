@@ -67,4 +67,5 @@
 | 7255418 | [Bike Keychain](https://www.thingiverse.com/thing:7255418)                          |
 | 7265507 | [Garden Spray Nozzle](https://www.thingiverse.com/thing:7265507)                    |
 | 7273356 | [Alphabet A Keychain](https://www.thingiverse.com/thing:7273356)                    |
-| 7273356 | [Do Not Touch Label](https://www.thingiverse.com/thing:7298408)                     |
+| 7298408 | [Do Not Touch Label](https://www.thingiverse.com/thing:7298408)                     |
+| 7348570 | [Garden Drip Hose Holder](https://www.thingiverse.com/thing:7348570)                |
